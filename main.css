@@ -1,0 +1,18 @@
+body {
+	background-color: #333;
+	color: #ccc;
+	font-family: sans-serif;
+	padding: 0 1rem;
+}
+
+.row {
+	margin-bottom: 1rem;
+}
+
+.hidden {
+	display: none;
+}
+
+hr {
+	margin-top: 1rem;
+}
